@@ -1,1 +1,1 @@
-# No external packages needed
+# No external packages required

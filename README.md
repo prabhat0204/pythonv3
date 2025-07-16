@@ -5,4 +5,4 @@ A simple CLI-based tool to convert temperatures between Celsius and Fahrenheit.
 ## How to Run
 
 ```bash
-python main.py
+python3 main.py

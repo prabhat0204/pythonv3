@@ -1,5 +1,5 @@
+# -*- coding: utf-8 -*-
 import converter
-
 
 def main():
     print("Temperature Converter")
@@ -18,7 +18,6 @@ def main():
         print(f"Temperature in Celsius: {c:.2f}")
     else:
         print("Invalid choice")
-
 
 if __name__ == "__main__":
     main()
